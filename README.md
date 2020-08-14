@@ -30,11 +30,19 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React JS is used for building user interfaces and UI components and can be thought of as creating a virtual DOM. The biggest problem React JS fixes are temporal data changes, in other words, pages like Facebook or Twitter that change a lot over time.
+
 1. Describe component state.
+
+A component state is essentially where you can store property values that belong to a component. Upon changing the state object, the component itself will re-render.
 
 1. Describe props.
 
+props can be though of as a special kind of keyword. They are used to pass data uni-directional (from parent to child).
+
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+
+Side effects are anything that impacts something on the outside of the function being executed. Effects in React JS are synced via hooks.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
