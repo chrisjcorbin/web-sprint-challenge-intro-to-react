@@ -2,7 +2,7 @@
   text-align: center;
 }
 .Header {
-  color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
+  color: rebeccapurple;
+  text-shadow: .2rem .2rem .5rem #fff;
 }
 /* write your parent styles in here for your App.js */
