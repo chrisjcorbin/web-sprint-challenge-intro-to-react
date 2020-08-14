@@ -13,7 +13,7 @@ const kf = keyframes`
 const StyledDetails = styled.div`
     opacity: 0;
     transform: scale(10) rotateZ(180deg);
-    animation: ${kf} 0.5s ease-in-out forwards;
+    animation: ${kf} .7s ease-in-out forwards;
     background-image: url('https://i.pinimg.com/originals/a7/7f/48/a77f486665f37182fa04cbbfd202a7ab.jpg');
     background-size: cover;
     width: 42%;
