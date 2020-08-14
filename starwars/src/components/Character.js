@@ -16,7 +16,7 @@ const StyledDetails = styled.div`
     animation: ${kf} .7s ease-in-out forwards;
     background-image: url('https://i.pinimg.com/originals/a7/7f/48/a77f486665f37182fa04cbbfd202a7ab.jpg');
     background-size: cover;
-    width: 42%;
+    width: 30%;
     margin: 0 auto;
     margin-bottom: 5%;
     display: flex;

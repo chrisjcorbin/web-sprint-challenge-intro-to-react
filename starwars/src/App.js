@@ -55,7 +55,6 @@ const App = () => {
             rides={character.starships.length + character.vehicles.length} />
           )
         })}
-
     </StyledApp>
   );
 }
